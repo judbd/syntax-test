@@ -1,0 +1,6 @@
+var undefined,
+    xui,
+    window     = this,
+    string     = new String('string'),
+    document   = window.document,
+    simpleExpr = /^#?([\w-]+)$/,
